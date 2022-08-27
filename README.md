@@ -1,5 +1,5 @@
 ## Hi there 👋
-### You can call me Srimanth
+### You can call me Srimanth / Sri.
 
 <p align="center">
     <a href="https://giphy.com/gifs/night-programming-programmer-xUA7bdpLxQhsSQdyog?utm_source=iframe&utm_medium=embed&utm_campaign=Embeds&utm_term=" target="_blank"><img src="./assets/chill_coding.gif" width="700px" height="450px"/>
@@ -7,9 +7,9 @@
 </p>
 
 - 🌱 Research Assistant at Computer Vision Labs - IU, working on Multi-view Stereo and 3D reconstruction.
-- 🔭 I’m currently learning deep neural networks using PyTorch and MLOps using wandb.
-- 👯 I’m looking to collaborate on Computer Vision problems and kaggle competitions.
-- 🤔 I’m looking for help with a job as a Computer Vision Engineer / Machine Learning Engineer.
+- 🔭 I’m currently a Masters in Data Science student learning deep neural networks using PyTorch and MLOps using wandb.
+- 👯 I’m looking to graduate in May 2023 and collaborate on Computer Vision problems and kaggle competitions.
+- 🤔 I’m looking for help with a full-time role as a Computer Vision Engineer / Machine Learning Engineer.
 - 💬 Ask me about: Just about any topic. I'm always ready to listen and ask questions.
 - 😄 Pronouns: He/him/his.
 - ⚡ Motto: True nobility is being superior to your former self.
