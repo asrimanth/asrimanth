@@ -2,7 +2,7 @@
 ### You can call me Srimanth
 
 <p align="center">
-<iframe src="https://giphy.com/embed/xUA7bdpLxQhsSQdyog" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/night-programming-programmer-xUA7bdpLxQhsSQdyog">via GIPHY</a></p>
+    <iframe src="https://giphy.com/embed/xUA7bdpLxQhsSQdyog" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/night-programming-programmer-xUA7bdpLxQhsSQdyog">via GIPHY</a></p>
 </p>
 
 - 🌱 Research Assistant at Computer Vision Labs - IU, working on Multi-view Stereo and 3D reconstruction.
@@ -19,7 +19,7 @@
     <img align="left" alt="LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32px"/>
 </a>
 <a href="https://mlzealot.github.io/">
-    <img align="left" alt="website" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="32px"/>
+    <img align="left" alt="website" src="https://www.svgrepo.com/show/259645/web-search.svg" width="32px"/>
 </a>
 <a href="https://github.com/asrimanth">
     <img align="left" alt="github" src="https://www.svgrepo.com/show/416517/code-github-hosting.svg" width="32px"/>
