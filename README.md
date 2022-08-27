@@ -2,7 +2,7 @@
 ### You can call me Srimanth
 
 <p align="center">
-    <a href="https://giphy.com/gifs/night-programming-programmer-xUA7bdpLxQhsSQdyog?utm_source=iframe&utm_medium=embed&utm_campaign=Embeds&utm_term=" target="_blank"><img src="./assets/chill_coding.gif" width="600px" height="420px"/>
+    <a href="https://giphy.com/gifs/night-programming-programmer-xUA7bdpLxQhsSQdyog?utm_source=iframe&utm_medium=embed&utm_campaign=Embeds&utm_term=" target="_blank"><img src="./assets/chill_coding.gif" width="700px" height="450px"/>
     </a>
 </p>
 
