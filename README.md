@@ -2,7 +2,8 @@
 ### You can call me Srimanth
 
 <p align="center">
-    <iframe src="https://giphy.com/embed/xUA7bdpLxQhsSQdyog" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/night-programming-programmer-xUA7bdpLxQhsSQdyog">via GIPHY</a></p>
+    <a href="https://giphy.com/gifs/night-programming-programmer-xUA7bdpLxQhsSQdyog?utm_source=iframe&utm_medium=embed&utm_campaign=Embeds&utm_term="><img src="./assets/chill_coding.gif"/>
+    </a>
 </p>
 
 - 🌱 Research Assistant at Computer Vision Labs - IU, working on Multi-view Stereo and 3D reconstruction.
@@ -32,3 +33,5 @@
 </a>
 <br />
 <br />
+
+
