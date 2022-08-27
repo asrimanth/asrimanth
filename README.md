@@ -42,7 +42,6 @@
 | Operating Systems    |<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="32px"/>&nbsp;<img src="https://www.svgrepo.com/show/25162/apple.svg" width="32px"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="32px"/>|
 
 ![Srimanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=asrimanth&show_icons=true&theme=dracula)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asrimanth&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 Thanks for viewing my profile!
