@@ -7,8 +7,8 @@
 </p>
 
 - 🌱 Generative AI Engineer at Easel AI Inc., working on text-to-image models and recommendation systems.
-- 🔭 I’m a Masters in Data Science Graduate, and I've worked as a Research Assistant at Computer Vision Labs - IU, Multi-view Stereo and 3D reconstruction.
-- 🤔 I’m looking for help with a full-time role as a Computer Vision Engineer / Machine Learning Engineer.
+- 🔭 Masters in Data Science Graduate - worked as a Research Assistant at Computer Vision Labs - IU on Multi-view Stereo and 3D reconstruction.
+- 🤔 I’m looking for a full-time role as a Computer Vision Engineer / Machine Learning Engineer.
 - 💬 Ask me about: AI/Machine Learning, Deep Learning, Computer Vision, Cricket, and Volleyball.
 - 😄 Pronouns: He/him/his.
 - ⚡ Motto: True nobility is being superior to your former self.
