@@ -6,11 +6,10 @@
     </a>
 </p>
 
-- 🌱 Research Assistant at Computer Vision Labs - IU, working on Multi-view Stereo and 3D reconstruction.
-- 🔭 I’m currently a Masters in Data Science student learning deep neural networks using PyTorch and MLOps using wandb.
-- 👯 I’m looking to graduate in May 2023 and collaborate on Computer Vision problems and kaggle competitions.
+- 🌱 Generative AI Engineer at Easel AI Inc., working on text-to-image models and recommendation systems.
+- 🔭 I’m a Masters in Data Science Graduate, and I've worked as a Research Assistant at Computer Vision Labs - IU, Multi-view Stereo and 3D reconstruction.
 - 🤔 I’m looking for help with a full-time role as a Computer Vision Engineer / Machine Learning Engineer.
-- 💬 Ask me about: Just about any topic. I'm always ready to listen and ask questions.
+- 💬 Ask me about: AI/Machine Learning, Deep Learning, Computer Vision, Cricket, and Volleyball.
 - 😄 Pronouns: He/him/his.
 - ⚡ Motto: True nobility is being superior to your former self.
 
