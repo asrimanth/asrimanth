@@ -40,8 +40,10 @@
 | Libraries/Frameworks |<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="32px"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="32px"/>&nbsp;<img src="https://avatars.githubusercontent.com/u/58386951?s=200&v=4" width="32px"/>&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="62px"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="32px"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="32px"/>&nbsp;<img src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" width="32px"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="32px"/>|
 | Operating Systems    |<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="32px"/>&nbsp;<img src="https://www.svgrepo.com/show/25162/apple.svg" width="32px"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="32px"/>|
 
+<!---
 ![Srimanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=asrimanth&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asrimanth&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 Thanks for viewing my profile!
 
