@@ -6,11 +6,10 @@
     </a>
 </p>
 
-- 🌱 Generative AI Engineer at Easel AI Inc., working on text-to-image models and recommendation systems.
+- 🌱 Generative AI Engineer, working on text-to-image models and recommendation systems.
 - 🔭 Masters in Data Science Graduate - worked as a Research Assistant at Computer Vision Labs - IU on Multi-view Stereo and 3D reconstruction.
 - 🤔 I’m looking for a full-time role as a Computer Vision Engineer / Machine Learning Engineer.
 - 💬 Ask me about: Bhagvad Gita, AI/Machine Learning, Deep Learning, Computer Vision, Cricket, and Volleyball.
-- 😄 Pronouns: He/him/his.
 - ⚡ Motto: True nobility is being superior to your former self.
 
 ### Hit me up:
