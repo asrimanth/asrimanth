@@ -26,9 +26,6 @@
 <a href="https://www.kaggle.com/srimanth98" target="_blank">
     <img align="left" alt="kaggle" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="32px"/>
 </a>
-<a href="https://github.com/mlzealot/mlzealot.github.io/blob/main/src/assets/Resume_DS_2022.pdf" target="_blank">
-    <img align="left" alt="resume" src="https://www.svgrepo.com/show/397165/page-facing-up.svg" width="32px"/>
-</a>
 <br />
 <br />
 
