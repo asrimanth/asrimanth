@@ -17,7 +17,7 @@
 <a href="https://www.linkedin.com/in/asrimanth/" target="_blank">
     <img align="left" alt="LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32px"/>
 </a>
-<a href="https://mlzealot.github.io/" target="_blank">
+<a href="https://asrimanth.github.io/" target="_blank">
     <img align="left" alt="website" src="https://www.svgrepo.com/show/259645/web-search.svg" width="32px"/>
 </a>
 <a href="https://github.com/asrimanth" target="_blank">
