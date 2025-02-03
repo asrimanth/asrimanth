@@ -34,7 +34,7 @@
 
 
 <!--![Srimanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=asrimanth&show_icons=true&theme=dracula)-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asrimanth&layout=donut&theme=dracula&hide=Jupyter%20Notebook,css,html&size_weight=0.1&count_weight=0.9)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asrimanth&layout=donut&theme=dracula&hide=Jupyter%20Notebook,css,html&size_weight=0.1&count_weight=0.9)]([https://github.com/anuraghazra/github-readme-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=asrimanth&layout=donut&theme=dracula&hide=Jupyter%20Notebook,css,html&size_weight=0.1&count_weight=0.9)
 
 
 Thanks for viewing my profile!
